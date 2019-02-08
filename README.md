@@ -1,2 +1,2 @@
 # yoroi-ts
-Typescript Client for Cardano Yoroi Wallet
+Typescript Client Library for Cardano Yoroi Wallet
